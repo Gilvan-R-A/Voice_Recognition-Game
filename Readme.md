@@ -1,16 +1,8 @@
-<style>
-.container h1, h4{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-}
-</style>
 <div class = "container">
-<h1>
+<h1 align="center">
 API de Reconhecimento de voz
 </h1>
-<h4>
+<h4 align="center">
 Super Mário English Challenge
 </h4><br>
 <p>
