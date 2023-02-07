@@ -5,13 +5,13 @@ API de Reconhecimento de voz
 <h4 align="center">
 Super Mário English Challenge
 </h4><br>
-<p>
-Jogo do Super Mario para responder o nome das cores em inglês usando a API de reconhecimento de voz.
-</p>
+
+Jogo do Super Mario para responder o nome das cores em inglês usando a API nativa: **Speech Recognition** (de reconhecimento de voz), **HTML, CSS, JavaScript.**
+
 <P>
 Esse projeto:
 </P>
-* Possui layout construído com Flexbox;<br>
+* Possui layout construído com <strong>Flexbox</strong>;<br>
 * Você pode responder em áudio para se comunicar com o navegador.<br><br>
 
  ![Jogo da Memoria](img/API-de-Reconhecimento-de-Voz.jpg)   
